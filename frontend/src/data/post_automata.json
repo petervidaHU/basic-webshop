@@ -1,0 +1,3306 @@
+{
+    "timestamp": "2021-08-01T04:01:02.903",
+    "post": 
+    [        
+        {
+            "isPostPoint": "1",
+            "zipCode": "8087",
+            "ID": "106452",
+            "name": "51 sz. automata - Magyar Takarékszövetkezeti Bank Zrt.",
+            "city": "Alcsútdoboz",
+            "street": 
+            {
+                "name": "Béke",
+                "type": "utca",
+                "houseNumber": "1"
+            },
+            "gpsData": 
+            {
+                "EOVx": "231479",
+                "EOVy": "616450",
+                "WGSLat": "47,426426",
+                "WGSLon": "18,602748"
+            },
+            "phoneArea": "1-767-8272",
+            "workingHours": 
+            {
+                "culture": "HU",
+                "days": 
+                [                    
+                    {
+                        "day": "Hétfő",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Kedd",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szerda",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Csütörtök",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Péntek",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szombat",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Vasárnap",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    }
+                ]
+            },
+            "description": "N/A...",
+            "email": "uzleti.ugyfelszolgalat@posta.hu",
+            "ServicePointType": "CS"
+        },        
+        {
+            "isPostPoint": "1",
+            "zipCode": "1870",
+            "ID": "105862",
+            "name": "1 sz. automata - Stop-Shop áruház",
+            "city": "Budapest",
+            "street": 
+            {
+                "name": "Hűvösvölgyi",
+                "type": "út",
+                "houseNumber": "138"
+            },
+            "gpsData": 
+            {
+                "EOVx": "244025",
+                "EOVy": "643855",
+                "WGSLat": "47,540108",
+                "WGSLon": "18,965820"
+            },
+            "phoneArea": "1-767-8272",
+            "workingHours": 
+            {
+                "culture": "HU",
+                "days": 
+                [                    
+                    {
+                        "day": "Hétfő",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Kedd",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szerda",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Csütörtök",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Péntek",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szombat",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Vasárnap",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    }
+                ]
+            },
+            "description": "N/A...",
+            "email": "uzleti.ugyfelszolgalat@posta.hu",
+            "ServicePointType": "CS"
+        },        
+        {
+            "isPostPoint": "1",
+            "zipCode": "1836",
+            "ID": "105863",
+            "name": "2 sz. automata - Bécsi út Tesco",
+            "city": "Budapest",
+            "street": 
+            {
+                "name": "Bécsi",
+                "type": "út",
+                "houseNumber": "258"
+            },
+            "gpsData": 
+            {
+                "EOVx": "246519",
+                "EOVy": "648025",
+                "WGSLat": "47,562567",
+                "WGSLon": "19,021199"
+            },
+            "phoneArea": "1-767-8272",
+            "workingHours": 
+            {
+                "culture": "HU",
+                "days": 
+                [                    
+                    {
+                        "day": "Hétfő",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Kedd",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szerda",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Csütörtök",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Péntek",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szombat",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Vasárnap",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    }
+                ]
+            },
+            "description": "N/A...",
+            "email": "uzleti.ugyfelszolgalat@posta.hu",
+            "ServicePointType": "CS"
+        },        
+        {
+            "isPostPoint": "1",
+            "zipCode": "1870",
+            "ID": "105864",
+            "name": "3 sz. automata - Váci út Tesco",
+            "city": "Budapest",
+            "street": 
+            {
+                "name": "Gács",
+                "type": "utca",
+                "houseNumber": "3"
+            },
+            "gpsData": 
+            {
+                "EOVx": "245748",
+                "EOVy": "652432",
+                "WGSLat": "47,555631",
+                "WGSLon": "19,079759"
+            },
+            "phoneArea": "1-767-8272",
+            "workingHours": 
+            {
+                "culture": "HU",
+                "days": 
+                [                    
+                    {
+                        "day": "Hétfő",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Kedd",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szerda",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Csütörtök",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Péntek",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szombat",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Vasárnap",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    }
+                ]
+            },
+            "description": "N/A...",
+            "email": "uzleti.ugyfelszolgalat@posta.hu",
+            "ServicePointType": "CS"
+        },        
+        {
+            "isPostPoint": "1",
+            "zipCode": "1870",
+            "ID": "105865",
+            "name": "4 sz. automata - Sugár B (IKEA felől)",
+            "city": "Budapest",
+            "street": 
+            {
+                "name": "Örs Vezér",
+                "type": "tere",
+                "houseNumber": "23"
+            },
+            "gpsData": 
+            {
+                "EOVx": "240043",
+                "EOVy": "656611",
+                "WGSLat": "47,504288",
+                "WGSLon": "19,135201"
+            },
+            "phoneArea": "1-767-8272",
+            "workingHours": 
+            {
+                "culture": "HU",
+                "days": 
+                [                    
+                    {
+                        "day": "Hétfő",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Kedd",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szerda",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Csütörtök",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Péntek",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szombat",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Vasárnap",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    }
+                ]
+            },
+            "description": "N/A...",
+            "email": "uzleti.ugyfelszolgalat@posta.hu",
+            "ServicePointType": "CS"
+        },        
+        {
+            "isPostPoint": "1",
+            "zipCode": "1826",
+            "ID": "105866",
+            "name": "5 sz. automata - Shopmark parkoló",
+            "city": "Budapest",
+            "street": 
+            {
+                "name": "Üllői",
+                "type": "út",
+                "houseNumber": "201"
+            },
+            "gpsData": 
+            {
+                "EOVx": "235555",
+                "EOVy": "656169",
+                "WGSLat": "47,463924",
+                "WGSLon": "19,129273"
+            },
+            "phoneArea": "1-767-8272",
+            "workingHours": 
+            {
+                "culture": "HU",
+                "days": 
+                [                    
+                    {
+                        "day": "Hétfő",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Kedd",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szerda",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Csütörtök",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Péntek",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szombat",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Vasárnap",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    }
+                ]
+            },
+            "description": "N/A...",
+            "email": "uzleti.ugyfelszolgalat@posta.hu",
+            "ServicePointType": "CS"
+        },        
+        {
+            "isPostPoint": "1",
+            "zipCode": "1871",
+            "ID": "105867",
+            "name": "6 sz. automata - Csepel Pláza",
+            "city": "Budapest",
+            "street": 
+            {
+                "name": "II. Rákóczi Ferenc",
+                "type": "út",
+                "houseNumber": "154-170"
+            },
+            "gpsData": 
+            {
+                "EOVx": "231162",
+                "EOVy": "651507",
+                "WGSLat": "47,424436",
+                "WGSLon": "19,067421"
+            },
+            "phoneArea": "1-767-8272",
+            "workingHours": 
+            {
+                "culture": "HU",
+                "days": 
+                [                    
+                    {
+                        "day": "Hétfő",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Kedd",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szerda",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Csütörtök",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Péntek",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szombat",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Vasárnap",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    }
+                ]
+            },
+            "description": "N/A...",
+            "email": "uzleti.ugyfelszolgalat@posta.hu",
+            "ServicePointType": "CS"
+        },        
+        {
+            "isPostPoint": "1",
+            "zipCode": "1871",
+            "ID": "105868",
+            "name": "7 sz. automata - Andor utca Spar",
+            "city": "Budapest",
+            "street": 
+            {
+                "name": "Fehérvári",
+                "type": "út",
+                "houseNumber": "161"
+            },
+            "gpsData": 
+            {
+                "EOVx": "234705",
+                "EOVy": "649413",
+                "WGSLat": "47,456306",
+                "WGSLon": "19,039661"
+            },
+            "phoneArea": "1-767-8272",
+            "workingHours": 
+            {
+                "culture": "HU",
+                "days": 
+                [                    
+                    {
+                        "day": "Hétfő",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Kedd",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szerda",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Csütörtök",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Péntek",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szombat",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Vasárnap",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    }
+                ]
+            },
+            "description": "N/A...",
+            "email": "uzleti.ugyfelszolgalat@posta.hu",
+            "ServicePointType": "CS"
+        },        
+        {
+            "isPostPoint": "1",
+            "zipCode": "1871",
+            "ID": "105869",
+            "name": "8 sz. automata - Campona",
+            "city": "Budapest",
+            "street": 
+            {
+                "name": "Nagytétényi",
+                "type": "út",
+                "houseNumber": "35"
+            },
+            "gpsData": 
+            {
+                "EOVx": "229237",
+                "EOVy": "647673",
+                "WGSLat": "47,407117",
+                "WGSLon": "19,016615"
+            },
+            "phoneArea": "1-767-8272",
+            "workingHours": 
+            {
+                "culture": "HU",
+                "days": 
+                [                    
+                    {
+                        "day": "Hétfő",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Kedd",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szerda",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Csütörtök",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Péntek",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szombat",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Vasárnap",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    }
+                ]
+            },
+            "description": "N/A...",
+            "email": "uzleti.ugyfelszolgalat@posta.hu",
+            "ServicePointType": "CS"
+        },        
+        {
+            "isPostPoint": "1",
+            "zipCode": "1870",
+            "ID": "105870",
+            "name": "9 sz. automata - Sugár A (IKEA felől)",
+            "city": "Budapest",
+            "street": 
+            {
+                "name": "Örs vezér",
+                "type": "tere",
+                "houseNumber": "23"
+            },
+            "gpsData": 
+            {
+                "EOVx": "240043",
+                "EOVy": "656611",
+                "WGSLat": "47,504288",
+                "WGSLon": "19,135201"
+            },
+            "phoneArea": "1-767-8272",
+            "workingHours": 
+            {
+                "culture": "HU",
+                "days": 
+                [                    
+                    {
+                        "day": "Hétfő",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Kedd",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szerda",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Csütörtök",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Péntek",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szombat",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Vasárnap",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    }
+                ]
+            },
+            "description": "N/A...",
+            "email": "uzleti.ugyfelszolgalat@posta.hu",
+            "ServicePointType": "CS"
+        },        
+        {
+            "isPostPoint": "1",
+            "zipCode": "1826",
+            "ID": "105871",
+            "name": "10 sz. automata - KÖKI",
+            "city": "Budapest",
+            "street": 
+            {
+                "name": "Vak Bottyán",
+                "type": "utca",
+                "houseNumber": "75 a-c"
+            },
+            "gpsData": 
+            {
+                "EOVx": "235376",
+                "EOVy": "657566",
+                "WGSLat": "47,462299",
+                "WGSLon": "19,147799"
+            },
+            "phoneArea": "1-767-8272",
+            "workingHours": 
+            {
+                "culture": "HU",
+                "days": 
+                [                    
+                    {
+                        "day": "Hétfő",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Kedd",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szerda",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Csütörtök",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Péntek",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szombat",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Vasárnap",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    }
+                ]
+            },
+            "description": "N/A...",
+            "email": "uzleti.ugyfelszolgalat@posta.hu",
+            "ServicePointType": "CS"
+        },        
+        {
+            "isPostPoint": "1",
+            "zipCode": "2100",
+            "ID": "105872",
+            "name": "11 sz. automata - MÁV állomás",
+            "city": "Gödöllő",
+            "street": 
+            {
+                "name": "Állomás",
+                "type": "tér",
+                "houseNumber": "1-3"
+            },
+            "gpsData": 
+            {
+                "EOVx": "249826",
+                "EOVy": "673381",
+                "WGSLat": "47,591900",
+                "WGSLon": "19,358324"
+            },
+            "phoneArea": "1-767-8272",
+            "workingHours": 
+            {
+                "culture": "HU",
+                "days": 
+                [                    
+                    {
+                        "day": "Hétfő",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Kedd",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szerda",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Csütörtök",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Péntek",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szombat",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Vasárnap",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    }
+                ]
+            },
+            "description": "N/A...",
+            "email": "uzleti.ugyfelszolgalat@posta.hu",
+            "ServicePointType": "CS"
+        },        
+        {
+            "isPostPoint": "1",
+            "zipCode": "2030",
+            "ID": "105873",
+            "name": "12 sz. automata - Stop-Shop áruház",
+            "city": "Érd",
+            "street": 
+            {
+                "name": "Budai",
+                "type": "út",
+                "houseNumber": "13"
+            },
+            "gpsData": 
+            {
+                "EOVx": "226027",
+                "EOVy": "640475",
+                "WGSLat": "47,378178",
+                "WGSLon": "18,921311"
+            },
+            "phoneArea": "1-767-8272",
+            "workingHours": 
+            {
+                "culture": "HU",
+                "days": 
+                [                    
+                    {
+                        "day": "Hétfő",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Kedd",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szerda",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Csütörtök",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Péntek",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szombat",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Vasárnap",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    }
+                ]
+            },
+            "description": "N/A...",
+            "email": "uzleti.ugyfelszolgalat@posta.hu",
+            "ServicePointType": "CS"
+        },        
+        {
+            "isPostPoint": "1",
+            "zipCode": "1871",
+            "ID": "105874",
+            "name": "13 sz. automata - Pesterzsébet Interspar",
+            "city": "Budapest",
+            "street": 
+            {
+                "name": "Széchenyi",
+                "type": "utca",
+                "houseNumber": "1"
+            },
+            "gpsData": 
+            {
+                "EOVx": "232901",
+                "EOVy": "653990",
+                "WGSLat": "47,440068",
+                "WGSLon": "19,100347"
+            },
+            "phoneArea": "1-767-8272",
+            "workingHours": 
+            {
+                "culture": "HU",
+                "days": 
+                [                    
+                    {
+                        "day": "Hétfő",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Kedd",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szerda",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Csütörtök",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Péntek",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szombat",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Vasárnap",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    }
+                ]
+            },
+            "description": "N/A...",
+            "email": "uzleti.ugyfelszolgalat@posta.hu",
+            "ServicePointType": "CS"
+        },        
+        {
+            "isPostPoint": "1",
+            "zipCode": "4050",
+            "ID": "105875",
+            "name": "14 sz. automata - Malompark",
+            "city": "Debrecen",
+            "street": 
+            {
+                "name": "Füredi",
+                "type": "út",
+                "houseNumber": "27"
+            },
+            "gpsData": 
+            {
+                "EOVx": "247428",
+                "EOVy": "843605",
+                "WGSLat": "47,542111",
+                "WGSLon": "21,619698"
+            },
+            "phoneArea": "1-767-8272",
+            "workingHours": 
+            {
+                "culture": "HU",
+                "days": 
+                [                    
+                    {
+                        "day": "Hétfő",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Kedd",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szerda",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Csütörtök",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Péntek",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szombat",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Vasárnap",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    }
+                ]
+            },
+            "description": "N/A...",
+            "email": "uzleti.ugyfelszolgalat@posta.hu",
+            "ServicePointType": "CS"
+        },        
+        {
+            "isPostPoint": "1",
+            "zipCode": "3550",
+            "ID": "105876",
+            "name": "15 sz. automata - Miskolc 9 - Újdiósgyőr posta",
+            "city": "Miskolc",
+            "street": 
+            {
+                "name": "Andrássy",
+                "type": "utca",
+                "houseNumber": "43"
+            },
+            "gpsData": 
+            {
+                "EOVx": "307777",
+                "EOVy": "775430",
+                "WGSLat": "48,101369",
+                "WGSLon": "20,731537"
+            },
+            "phoneArea": "1-767-8272",
+            "workingHours": 
+            {
+                "culture": "HU",
+                "days": 
+                [                    
+                    {
+                        "day": "Hétfő",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Kedd",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szerda",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Csütörtök",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Péntek",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szombat",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Vasárnap",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    }
+                ]
+            },
+            "description": "N/A...",
+            "email": "uzleti.ugyfelszolgalat@posta.hu",
+            "ServicePointType": "CS"
+        },        
+        {
+            "isPostPoint": "1",
+            "zipCode": "3550",
+            "ID": "105877",
+            "name": "16 sz. automata - Avas Tesco",
+            "city": "Miskolc",
+            "street": 
+            {
+                "name": "Mésztelep",
+                "type": "utca",
+                "houseNumber": "1/a"
+            },
+            "gpsData": 
+            {
+                "EOVx": "304582",
+                "EOVy": "779440",
+                "WGSLat": "48,071855",
+                "WGSLon": "20,784407"
+            },
+            "phoneArea": "1-767-8272",
+            "workingHours": 
+            {
+                "culture": "HU",
+                "days": 
+                [                    
+                    {
+                        "day": "Hétfő",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Kedd",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szerda",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Csütörtök",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Péntek",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szombat",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Vasárnap",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    }
+                ]
+            },
+            "description": "N/A...",
+            "email": "uzleti.ugyfelszolgalat@posta.hu",
+            "ServicePointType": "CS"
+        },        
+        {
+            "isPostPoint": "1",
+            "zipCode": "4420",
+            "ID": "105878",
+            "name": "17 sz. automata - MÁV állomás",
+            "city": "Nyíregyháza",
+            "street": 
+            {
+                "name": "Állomás",
+                "type": "tér",
+                "houseNumber": "2"
+            },
+            "gpsData": 
+            {
+                "EOVx": "292571",
+                "EOVy": "848585",
+                "WGSLat": "47,946403",
+                "WGSLon": "21,706198"
+            },
+            "phoneArea": "1-767-8272",
+            "workingHours": 
+            {
+                "culture": "HU",
+                "days": 
+                [                    
+                    {
+                        "day": "Hétfő",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Kedd",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szerda",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Csütörtök",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Péntek",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szombat",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Vasárnap",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    }
+                ]
+            },
+            "description": "N/A...",
+            "email": "uzleti.ugyfelszolgalat@posta.hu",
+            "ServicePointType": "CS"
+        },        
+        {
+            "isPostPoint": "1",
+            "zipCode": "5020",
+            "ID": "105879",
+            "name": "18 sz. automata - MÁV állomás",
+            "city": "Szolnok",
+            "street": 
+            {
+                "name": "Jubileumi",
+                "type": "tér",
+                "houseNumber": "1-3"
+            },
+            "gpsData": 
+            {
+                "EOVx": "204541",
+                "EOVy": "735587",
+                "WGSLat": "47,179423",
+                "WGSLon": "20,176665"
+            },
+            "phoneArea": "1-767-8272",
+            "workingHours": 
+            {
+                "culture": "HU",
+                "days": 
+                [                    
+                    {
+                        "day": "Hétfő",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Kedd",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szerda",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Csütörtök",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Péntek",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szombat",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Vasárnap",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    }
+                ]
+            },
+            "description": "N/A...",
+            "email": "uzleti.ugyfelszolgalat@posta.hu",
+            "ServicePointType": "CS"
+        },        
+        {
+            "isPostPoint": "1",
+            "zipCode": "3300",
+            "ID": "105880",
+            "name": "19 sz. automata - Tesco",
+            "city": "Eger",
+            "street": 
+            {
+                "name": "II. Rákóczi Ferenc",
+                "type": "utca",
+                "houseNumber": "100"
+            },
+            "gpsData": 
+            {
+                "EOVx": "287518",
+                "EOVy": "748780",
+                "WGSLat": "47,923816",
+                "WGSLon": "20,369198"
+            },
+            "phoneArea": "1-767-8272",
+            "workingHours": 
+            {
+                "culture": "HU",
+                "days": 
+                [                    
+                    {
+                        "day": "Hétfő",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Kedd",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szerda",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Csütörtök",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Péntek",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szombat",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Vasárnap",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    }
+                ]
+            },
+            "description": "N/A...",
+            "email": "uzleti.ugyfelszolgalat@posta.hu",
+            "ServicePointType": "CS"
+        },        
+        {
+            "isPostPoint": "1",
+            "zipCode": "2801",
+            "ID": "105881",
+            "name": "20 sz. automata - Tatabánya 1 posta",
+            "city": "Tatabánya",
+            "street": 
+            {
+                "name": "Fő",
+                "type": "tér",
+                "houseNumber": "30"
+            },
+            "gpsData": 
+            {
+                "EOVx": "248993",
+                "EOVy": "601169",
+                "WGSLat": "47,582994",
+                "WGSLon": "18,398279"
+            },
+            "phoneArea": "1-767-8272",
+            "workingHours": 
+            {
+                "culture": "HU",
+                "days": 
+                [                    
+                    {
+                        "day": "Hétfő",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Kedd",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szerda",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Csütörtök",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Péntek",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szombat",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Vasárnap",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    }
+                ]
+            },
+            "description": "N/A...",
+            "email": "uzleti.ugyfelszolgalat@posta.hu",
+            "ServicePointType": "CS"
+        },        
+        {
+            "isPostPoint": "1",
+            "zipCode": "9702",
+            "ID": "105882",
+            "name": "21 sz. automata - Tesco",
+            "city": "Szombathely",
+            "street": 
+            {
+                "name": "Zanati",
+                "type": "út",
+                "houseNumber": "70"
+            },
+            "gpsData": 
+            {
+                "EOVx": "213384",
+                "EOVy": "468756",
+                "WGSLat": "47,239530",
+                "WGSLon": "16,653171"
+            },
+            "phoneArea": "1-767-8272",
+            "workingHours": 
+            {
+                "culture": "HU",
+                "days": 
+                [                    
+                    {
+                        "day": "Hétfő",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Kedd",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szerda",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Csütörtök",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Péntek",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szombat",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Vasárnap",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    }
+                ]
+            },
+            "description": "N/A...",
+            "email": "uzleti.ugyfelszolgalat@posta.hu",
+            "ServicePointType": "CS"
+        },        
+        {
+            "isPostPoint": "1",
+            "zipCode": "8210",
+            "ID": "105883",
+            "name": "22 sz. automata - Veszprém 1 posta",
+            "city": "Veszprém",
+            "street": 
+            {
+                "name": "Kossuth Lajos",
+                "type": "utca",
+                "houseNumber": "19"
+            },
+            "gpsData": 
+            {
+                "EOVx": "194986",
+                "EOVy": "563711",
+                "WGSLat": "47,093370",
+                "WGSLon": "17,910812"
+            },
+            "phoneArea": "1-767-8272",
+            "workingHours": 
+            {
+                "culture": "HU",
+                "days": 
+                [                    
+                    {
+                        "day": "Hétfő",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Kedd",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szerda",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Csütörtök",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Péntek",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szombat",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Vasárnap",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    }
+                ]
+            },
+            "description": "N/A...",
+            "email": "uzleti.ugyfelszolgalat@posta.hu",
+            "ServicePointType": "CS"
+        },        
+        {
+            "isPostPoint": "1",
+            "zipCode": "9401",
+            "ID": "105884",
+            "name": "23 sz. automata - Tesco",
+            "city": "Sopron",
+            "street": 
+            {
+                "name": "Ipar",
+                "type": "körút",
+                "houseNumber": "30"
+            },
+            "gpsData": 
+            {
+                "EOVx": "261363",
+                "EOVy": "467073",
+                "WGSLat": "47,670420",
+                "WGSLon": "16,611197"
+            },
+            "phoneArea": "1-767-8272",
+            "workingHours": 
+            {
+                "culture": "HU",
+                "days": 
+                [                    
+                    {
+                        "day": "Hétfő",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Kedd",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szerda",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Csütörtök",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Péntek",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szombat",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Vasárnap",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    }
+                ]
+            },
+            "description": "N/A...",
+            "email": "uzleti.ugyfelszolgalat@posta.hu",
+            "ServicePointType": "CS"
+        },        
+        {
+            "isPostPoint": "1",
+            "zipCode": "9041",
+            "ID": "105885",
+            "name": "24 sz. automata - Győr Interspar",
+            "city": "Győr",
+            "street": 
+            {
+                "name": "Fehérvári",
+                "type": "út",
+                "houseNumber": "3"
+            },
+            "gpsData": 
+            {
+                "EOVx": "261401",
+                "EOVy": "545053",
+                "WGSLat": "47,687972",
+                "WGSLon": "17,649430"
+            },
+            "phoneArea": "1-767-8272",
+            "workingHours": 
+            {
+                "culture": "HU",
+                "days": 
+                [                    
+                    {
+                        "day": "Hétfő",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Kedd",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szerda",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Csütörtök",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Péntek",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szombat",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Vasárnap",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    }
+                ]
+            },
+            "description": "N/A...",
+            "email": "uzleti.ugyfelszolgalat@posta.hu",
+            "ServicePointType": "CS"
+        },        
+        {
+            "isPostPoint": "1",
+            "zipCode": "8910",
+            "ID": "105886",
+            "name": "25 sz. automata - Zala Pláza",
+            "city": "Zalaegerszeg",
+            "street": 
+            {
+                "name": "Stadion",
+                "type": "utca",
+                "houseNumber": "5"
+            },
+            "gpsData": 
+            {
+                "EOVx": "169062",
+                "EOVy": "482524",
+                "WGSLat": "46,844634",
+                "WGSLon": "16,851401"
+            },
+            "phoneArea": "1-767-8272",
+            "workingHours": 
+            {
+                "culture": "HU",
+                "days": 
+                [                    
+                    {
+                        "day": "Hétfő",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Kedd",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szerda",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Csütörtök",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Péntek",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szombat",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Vasárnap",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    }
+                ]
+            },
+            "description": "N/A...",
+            "email": "uzleti.ugyfelszolgalat@posta.hu",
+            "ServicePointType": "CS"
+        },        
+        {
+            "isPostPoint": "1",
+            "zipCode": "9041",
+            "ID": "105887",
+            "name": "26 sz. automata - AUDI",
+            "city": "Győr",
+            "street": 
+            {
+                "name": "Audi Hungária",
+                "type": "út",
+                "houseNumber": "1"
+            },
+            "gpsData": 
+            {
+                "EOVx": "262360",
+                "EOVy": "547328",
+                "WGSLat": "47,696958",
+                "WGSLon": "17,679506"
+            },
+            "phoneArea": "1-767-8272",
+            "workingHours": 
+            {
+                "culture": "HU",
+                "days": 
+                [                    
+                    {
+                        "day": "Hétfő",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Kedd",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szerda",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Csütörtök",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Péntek",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szombat",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Vasárnap",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    }
+                ]
+            },
+            "description": "N/A...",
+            "email": "uzleti.ugyfelszolgalat@posta.hu",
+            "ServicePointType": "CS"
+        },        
+        {
+            "isPostPoint": "1",
+            "zipCode": "7680",
+            "ID": "105888",
+            "name": "27 sz. automata - MÁV állomás",
+            "city": "Pécs",
+            "street": 
+            {
+                "name": "Indóház",
+                "type": "tér",
+                "houseNumber": "6"
+            },
+            "gpsData": 
+            {
+                "EOVx": "80580",
+                "EOVy": "586438",
+                "WGSLat": "46,066831",
+                "WGSLon": "18,226013"
+            },
+            "phoneArea": "1-767-8272",
+            "workingHours": 
+            {
+                "culture": "HU",
+                "days": 
+                [                    
+                    {
+                        "day": "Hétfő",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Kedd",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szerda",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Csütörtök",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Péntek",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szombat",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Vasárnap",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    }
+                ]
+            },
+            "description": "N/A...",
+            "email": "uzleti.ugyfelszolgalat@posta.hu",
+            "ServicePointType": "CS"
+        },        
+        {
+            "isPostPoint": "1",
+            "zipCode": "7680",
+            "ID": "105889",
+            "name": "28 sz. automata - Spar",
+            "city": "Pécs",
+            "street": 
+            {
+                "name": "Csontváry",
+                "type": "utca",
+                "houseNumber": "2"
+            },
+            "gpsData": 
+            {
+                "EOVx": "77581",
+                "EOVy": "586195",
+                "WGSLat": "46,039831",
+                "WGSLon": "18,223282"
+            },
+            "phoneArea": "1-767-8272",
+            "workingHours": 
+            {
+                "culture": "HU",
+                "days": 
+                [                    
+                    {
+                        "day": "Hétfő",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Kedd",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szerda",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Csütörtök",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Péntek",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szombat",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Vasárnap",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    }
+                ]
+            },
+            "description": "N/A...",
+            "email": "uzleti.ugyfelszolgalat@posta.hu",
+            "ServicePointType": "CS"
+        },        
+        {
+            "isPostPoint": "1",
+            "zipCode": "7110",
+            "ID": "105890",
+            "name": "29 sz. automata - MÁV állomás",
+            "city": "Szekszárd",
+            "street": 
+            {
+                "name": "Pollack Mihály",
+                "type": "utca",
+                "houseNumber": "1-49"
+            },
+            "gpsData": 
+            {
+                "EOVx": "111487",
+                "EOVy": "624186",
+                "WGSLat": "46,347375",
+                "WGSLon": "18,712128"
+            },
+            "phoneArea": "1-767-8272",
+            "workingHours": 
+            {
+                "culture": "HU",
+                "days": 
+                [                    
+                    {
+                        "day": "Hétfő",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Kedd",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szerda",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Csütörtök",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Péntek",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szombat",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Vasárnap",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    }
+                ]
+            },
+            "description": "N/A...",
+            "email": "uzleti.ugyfelszolgalat@posta.hu",
+            "ServicePointType": "CS"
+        },        
+        {
+            "isPostPoint": "1",
+            "zipCode": "8050",
+            "ID": "105891",
+            "name": "30 sz. automata - Posta Feldolgozó",
+            "city": "Székesfehérvár",
+            "street": 
+            {
+                "name": "Kaszap István",
+                "type": "utca",
+                "houseNumber": "3"
+            },
+            "gpsData": 
+            {
+                "EOVx": "204460",
+                "EOVy": "602500",
+                "WGSLat": "47,182528",
+                "WGSLon": "18,420727"
+            },
+            "phoneArea": "1-767-8272",
+            "workingHours": 
+            {
+                "culture": "HU",
+                "days": 
+                [                    
+                    {
+                        "day": "Hétfő",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Kedd",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szerda",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Csütörtök",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Péntek",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szombat",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Vasárnap",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    }
+                ]
+            },
+            "description": "N/A...",
+            "email": "uzleti.ugyfelszolgalat@posta.hu",
+            "ServicePointType": "CS"
+        },        
+        {
+            "isPostPoint": "1",
+            "zipCode": "7420",
+            "ID": "105892",
+            "name": "31 sz. automata - ALDI",
+            "city": "Kaposvár",
+            "street": 
+            {
+                "name": "Petőfi",
+                "type": "utca",
+                "houseNumber": "56"
+            },
+            "gpsData": 
+            {
+                "EOVx": "114180",
+                "EOVy": "552773",
+                "WGSLat": "46,365021",
+                "WGSLon": "17,783973"
+            },
+            "phoneArea": "1-767-8272",
+            "workingHours": 
+            {
+                "culture": "HU",
+                "days": 
+                [                    
+                    {
+                        "day": "Hétfő",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Kedd",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szerda",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Csütörtök",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Péntek",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szombat",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Vasárnap",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    }
+                ]
+            },
+            "description": "N/A...",
+            "email": "uzleti.ugyfelszolgalat@posta.hu",
+            "ServicePointType": "CS"
+        },        
+        {
+            "isPostPoint": "1",
+            "zipCode": "6780",
+            "ID": "105893",
+            "name": "32 sz. automata - Rókusi körút Tesco",
+            "city": "Szeged",
+            "street": 
+            {
+                "name": "Rókusi",
+                "type": "körút",
+                "houseNumber": "42-64"
+            },
+            "gpsData": 
+            {
+                "EOVx": "103433",
+                "EOVy": "734120",
+                "WGSLat": "46,270148",
+                "WGSLon": "20,138704"
+            },
+            "phoneArea": "1-767-8272",
+            "workingHours": 
+            {
+                "culture": "HU",
+                "days": 
+                [                    
+                    {
+                        "day": "Hétfő",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Kedd",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szerda",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Csütörtök",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Péntek",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szombat",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Vasárnap",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    }
+                ]
+            },
+            "description": "N/A...",
+            "email": "uzleti.ugyfelszolgalat@posta.hu",
+            "ServicePointType": "CS"
+        },        
+        {
+            "isPostPoint": "1",
+            "zipCode": "1826",
+            "ID": "105894",
+            "name": "33 sz. automata - Pesti úti Tesco",
+            "city": "Budapest",
+            "street": 
+            {
+                "name": "Pesti",
+                "type": "út",
+                "houseNumber": "5-7"
+            },
+            "gpsData": 
+            {
+                "EOVx": "237674",
+                "EOVy": "663603",
+                "WGSLat": "47,482872",
+                "WGSLon": "19,227942"
+            },
+            "phoneArea": "1-767-8272",
+            "workingHours": 
+            {
+                "culture": "HU",
+                "days": 
+                [                    
+                    {
+                        "day": "Hétfő",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Kedd",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szerda",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Csütörtök",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Péntek",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szombat",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Vasárnap",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    }
+                ]
+            },
+            "description": "N/A...",
+            "email": "uzleti.ugyfelszolgalat@posta.hu",
+            "ServicePointType": "CS"
+        },        
+        {
+            "isPostPoint": "1",
+            "zipCode": "5620",
+            "ID": "105895",
+            "name": "34 sz. automata - Önkormányzat",
+            "city": "Békéscsaba",
+            "street": 
+            {
+                "name": "Szabadság",
+                "type": "tér",
+                "houseNumber": "1-3"
+            },
+            "gpsData": 
+            {
+                "EOVx": "150407",
+                "EOVy": "806897",
+                "WGSLat": "46,679495",
+                "WGSLon": "21,098447"
+            },
+            "phoneArea": "1-767-8272",
+            "workingHours": 
+            {
+                "culture": "HU",
+                "days": 
+                [                    
+                    {
+                        "day": "Hétfő",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Kedd",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szerda",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Csütörtök",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Péntek",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szombat",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Vasárnap",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    }
+                ]
+            },
+            "description": "N/A...",
+            "email": "uzleti.ugyfelszolgalat@posta.hu",
+            "ServicePointType": "CS"
+        },        
+        {
+            "isPostPoint": "1",
+            "zipCode": "1870",
+            "ID": "105918",
+            "name": "36 sz. automata - Corvin Pláza",
+            "city": "Budapest",
+            "street": 
+            {
+                "name": "Futó",
+                "type": "utca",
+                "houseNumber": "37-45"
+            },
+            "gpsData": 
+            {
+                "EOVx": "238027",
+                "EOVy": "652043",
+                "WGSLat": "47,486184",
+                "WGSLon": "19,074556"
+            },
+            "phoneArea": "1-767-8272",
+            "workingHours": 
+            {
+                "culture": "HU",
+                "days": 
+                [                    
+                    {
+                        "day": "Hétfő",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Kedd",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szerda",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Csütörtök",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Péntek",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szombat",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Vasárnap",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    }
+                ]
+            },
+            "description": "N/A...",
+            "email": "uzleti.ugyfelszolgalat@posta.hu",
+            "ServicePointType": "CS"
+        },        
+        {
+            "isPostPoint": "1",
+            "zipCode": "1826",
+            "ID": "105920",
+            "name": "38 sz. automata - Lőrinc Center",
+            "city": "Budapest",
+            "street": 
+            {
+                "name": "Üllői",
+                "type": "út",
+                "houseNumber": "661"
+            },
+            "gpsData": 
+            {
+                "EOVx": "232300",
+                "EOVy": "661629",
+                "WGSLat": "47,434572",
+                "WGSLon": "19,201610"
+            },
+            "phoneArea": "1-767-8272",
+            "workingHours": 
+            {
+                "culture": "HU",
+                "days": 
+                [                    
+                    {
+                        "day": "Hétfő",
+                        "From1": "07:00",
+                        "To1": "22:00"
+                    },                    
+                    {
+                        "day": "Kedd",
+                        "From1": "07:00",
+                        "To1": "22:00"
+                    },                    
+                    {
+                        "day": "Szerda",
+                        "From1": "07:00",
+                        "To1": "22:00"
+                    },                    
+                    {
+                        "day": "Csütörtök",
+                        "From1": "07:00",
+                        "To1": "22:00"
+                    },                    
+                    {
+                        "day": "Péntek",
+                        "From1": "07:00",
+                        "To1": "22:00"
+                    },                    
+                    {
+                        "day": "Szombat",
+                        "From1": "07:00",
+                        "To1": "22:00"
+                    },                    
+                    {
+                        "day": "Vasárnap",
+                        "From1": "06:00",
+                        "To1": "18:00"
+                    }
+                ]
+            },
+            "description": "N/A...",
+            "email": "uzleti.ugyfelszolgalat@posta.hu",
+            "ServicePointType": "CS"
+        },        
+        {
+            "isPostPoint": "1",
+            "zipCode": "1871",
+            "ID": "105921",
+            "name": "39 sz. automata - Allée Bevásárlóközpont",
+            "city": "Budapest",
+            "street": 
+            {
+                "name": "Október huszonharmadika",
+                "type": "utca",
+                "houseNumber": "8-10"
+            },
+            "gpsData": 
+            {
+                "EOVx": "236670",
+                "EOVy": "650127",
+                "WGSLat": "47,473981",
+                "WGSLon": "19,049131"
+            },
+            "phoneArea": "1-767-8272",
+            "workingHours": 
+            {
+                "culture": "HU",
+                "days": 
+                [                    
+                    {
+                        "day": "Hétfő",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Kedd",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szerda",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Csütörtök",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Péntek",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szombat",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Vasárnap",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    }
+                ]
+            },
+            "description": "N/A...",
+            "email": "uzleti.ugyfelszolgalat@posta.hu",
+            "ServicePointType": "CS"
+        },        
+        {
+            "isPostPoint": "1",
+            "zipCode": "1870",
+            "ID": "105922",
+            "name": "40 sz. automata - Déli pályaudvar",
+            "city": "Budapest",
+            "street": 
+            {
+                "name": "Krisztina",
+                "type": "körút",
+                "houseNumber": "37/a"
+            },
+            "gpsData": 
+            {
+                "EOVx": "239560",
+                "EOVy": "648281",
+                "WGSLat": "47,499974",
+                "WGSLon": "19,024629"
+            },
+            "phoneArea": "1-767-8272",
+            "workingHours": 
+            {
+                "culture": "HU",
+                "days": 
+                [                    
+                    {
+                        "day": "Hétfő",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Kedd",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szerda",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Csütörtök",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Péntek",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szombat",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Vasárnap",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    }
+                ]
+            },
+            "description": "N/A...",
+            "email": "uzleti.ugyfelszolgalat@posta.hu",
+            "ServicePointType": "CS"
+        },        
+        {
+            "isPostPoint": "1",
+            "zipCode": "1870",
+            "ID": "105923",
+            "name": "41 sz. automata - Nyugati tér metró aluljáró",
+            "city": "Budapest",
+            "street": 
+            {
+                "name": "Nyugati",
+                "type": "tér",
+                "houseNumber": "aluljáró"
+            },
+            "gpsData": 
+            {
+                "EOVx": "240660",
+                "EOVy": "650593",
+                "WGSLat": "47,509870",
+                "WGSLon": "19,055318"
+            },
+            "phoneArea": "1-767-8272",
+            "workingHours": 
+            {
+                "culture": "HU",
+                "days": 
+                [                    
+                    {
+                        "day": "Hétfő",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Kedd",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szerda",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Csütörtök",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Péntek",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szombat",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Vasárnap",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    }
+                ]
+            },
+            "description": "N/A...",
+            "email": "uzleti.ugyfelszolgalat@posta.hu",
+            "ServicePointType": "CS"
+        },        
+        {
+            "isPostPoint": "1",
+            "zipCode": "1871",
+            "ID": "105924",
+            "name": "42 sz. automata - Kelenföld pu. metró aluljáró",
+            "city": "Budapest",
+            "street": 
+            {
+                "name": "Etele",
+                "type": "tér",
+                "houseNumber": "aluljáró"
+            },
+            "gpsData": 
+            {
+                "EOVx": "235743",
+                "EOVy": "648102",
+                "WGSLat": "47,465640",
+                "WGSLon": "19,022270"
+            },
+            "phoneArea": "1-767-8272",
+            "workingHours": 
+            {
+                "culture": "HU",
+                "days": 
+                [                    
+                    {
+                        "day": "Hétfő",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Kedd",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szerda",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Csütörtök",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Péntek",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szombat",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Vasárnap",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    }
+                ]
+            },
+            "description": "N/A...",
+            "email": "uzleti.ugyfelszolgalat@posta.hu",
+            "ServicePointType": "CS"
+        },        
+        {
+            "isPostPoint": "1",
+            "zipCode": "1870",
+            "ID": "105925",
+            "name": "43 sz. automata - Árpád híd metró aluljáró",
+            "city": "Budapest",
+            "street": 
+            {
+                "name": "Árpád",
+                "type": "híd",
+                "houseNumber": "aluljáró"
+            },
+            "gpsData": 
+            {
+                "EOVx": "243066",
+                "EOVy": "651448",
+                "WGSLat": "47,531510",
+                "WGSLon": "19,066676"
+            },
+            "phoneArea": "1-767-8272",
+            "workingHours": 
+            {
+                "culture": "HU",
+                "days": 
+                [                    
+                    {
+                        "day": "Hétfő",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Kedd",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szerda",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Csütörtök",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Péntek",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szombat",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Vasárnap",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    }
+                ]
+            },
+            "description": "N/A...",
+            "email": "uzleti.ugyfelszolgalat@posta.hu",
+            "ServicePointType": "CS"
+        },        
+        {
+            "isPostPoint": "1",
+            "zipCode": "1838",
+            "ID": "105926",
+            "name": "44 sz. automata - Auchan",
+            "city": "Budaörs",
+            "street": 
+            {
+                "name": "Sport",
+                "type": "utca",
+                "houseNumber": "2-4"
+            },
+            "gpsData": 
+            {
+                "EOVx": "234529",
+                "EOVy": "642193",
+                "WGSLat": "47,454676",
+                "WGSLon": "18,943912"
+            },
+            "phoneArea": "1-767-8272",
+            "workingHours": 
+            {
+                "culture": "HU",
+                "days": 
+                [                    
+                    {
+                        "day": "Hétfő",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Kedd",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szerda",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Csütörtök",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Péntek",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szombat",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Vasárnap",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    }
+                ]
+            },
+            "description": "N/A...",
+            "email": "uzleti.ugyfelszolgalat@posta.hu",
+            "ServicePointType": "CS"
+        },        
+        {
+            "isPostPoint": "1",
+            "zipCode": "2120",
+            "ID": "105927",
+            "name": "45 sz. automata - Tesco",
+            "city": "Dunakeszi",
+            "street": 
+            {
+                "name": "Fő",
+                "type": "út",
+                "houseNumber": "190"
+            },
+            "gpsData": 
+            {
+                "EOVx": "256821",
+                "EOVy": "656265",
+                "WGSLat": "47,655202",
+                "WGSLon": "19,130843"
+            },
+            "phoneArea": "1-767-8272",
+            "workingHours": 
+            {
+                "culture": "HU",
+                "days": 
+                [                    
+                    {
+                        "day": "Hétfő",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Kedd",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szerda",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Csütörtök",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Péntek",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szombat",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Vasárnap",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    }
+                ]
+            },
+            "description": "N/A...",
+            "email": "uzleti.ugyfelszolgalat@posta.hu",
+            "ServicePointType": "CS"
+        },        
+        {
+            "isPostPoint": "1",
+            "zipCode": "2401",
+            "ID": "105928",
+            "name": "46 sz. automata - Interspar",
+            "city": "Dunaújváros",
+            "street": 
+            {
+                "name": "Béke",
+                "type": "körút",
+                "houseNumber": "3"
+            },
+            "gpsData": 
+            {
+                "EOVx": "179667",
+                "EOVy": "640307",
+                "WGSLat": "46,961146",
+                "WGSLon": "18,920094"
+            },
+            "phoneArea": "1-767-8272",
+            "workingHours": 
+            {
+                "culture": "HU",
+                "days": 
+                [                    
+                    {
+                        "day": "Hétfő",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Kedd",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szerda",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Csütörtök",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Péntek",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szombat",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Vasárnap",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    }
+                ]
+            },
+            "description": "N/A...",
+            "email": "uzleti.ugyfelszolgalat@posta.hu",
+            "ServicePointType": "CS"
+        },        
+        {
+            "isPostPoint": "1",
+            "zipCode": "6501",
+            "ID": "105929",
+            "name": "47 sz. automata - Tesco",
+            "city": "Baja",
+            "street": 
+            {
+                "name": "Gránátos",
+                "type": "utca",
+                "houseNumber": "11"
+            },
+            "gpsData": 
+            {
+                "EOVx": "94048",
+                "EOVy": "641730",
+                "WGSLat": "46,190945",
+                "WGSLon": "18,940346"
+            },
+            "phoneArea": "1-767-8272",
+            "workingHours": 
+            {
+                "culture": "HU",
+                "days": 
+                [                    
+                    {
+                        "day": "Hétfő",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Kedd",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szerda",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Csütörtök",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Péntek",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szombat",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Vasárnap",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    }
+                ]
+            },
+            "description": "N/A...",
+            "email": "uzleti.ugyfelszolgalat@posta.hu",
+            "ServicePointType": "CS"
+        },        
+        {
+            "isPostPoint": "1",
+            "zipCode": "9041",
+            "ID": "105930",
+            "name": "48 sz. automata - Győr Pláza",
+            "city": "Győr",
+            "street": 
+            {
+                "name": "Vasvári Pál",
+                "type": "utca",
+                "houseNumber": "1/A"
+            },
+            "gpsData": 
+            {
+                "EOVx": "259308",
+                "EOVy": "544802",
+                "WGSLat": "47,669109",
+                "WGSLon": "17,646587"
+            },
+            "phoneArea": "1-767-8272",
+            "workingHours": 
+            {
+                "culture": "HU",
+                "days": 
+                [                    
+                    {
+                        "day": "Hétfő",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Kedd",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szerda",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Csütörtök",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Péntek",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szombat",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Vasárnap",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    }
+                ]
+            },
+            "description": "N/A...",
+            "email": "uzleti.ugyfelszolgalat@posta.hu",
+            "ServicePointType": "CS"
+        },        
+        {
+            "isPostPoint": "1",
+            "zipCode": "1870",
+            "ID": "105932",
+            "name": "50 sz. automata - Fogarasi úti Tesco",
+            "city": "Budapest",
+            "street": 
+            {
+                "name": "Pillangó",
+                "type": "utca",
+                "houseNumber": "15"
+            },
+            "gpsData": 
+            {
+                "EOVx": "240066",
+                "EOVy": "655283",
+                "WGSLat": "47,504507",
+                "WGSLon": "19,117574"
+            },
+            "phoneArea": "1-767-8272",
+            "workingHours": 
+            {
+                "culture": "HU",
+                "days": 
+                [                    
+                    {
+                        "day": "Hétfő",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Kedd",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szerda",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Csütörtök",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Péntek",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szombat",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Vasárnap",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    }
+                ]
+            },
+            "description": "N/A...",
+            "email": "uzleti.ugyfelszolgalat@posta.hu",
+            "ServicePointType": "CS"
+        },        
+        {
+            "isPostPoint": "1",
+            "zipCode": "1836",
+            "ID": "105919",
+            "name": "37 sz. automata - Asia Center",
+            "city": "Budapest",
+            "street": 
+            {
+                "name": "Szentmihályi",
+                "type": "út",
+                "houseNumber": "167-169"
+            },
+            "gpsData": 
+            {
+                "EOVx": "244730",
+                "EOVy": "657275",
+                "WGSLat": "47,546439",
+                "WGSLon": "19,144092"
+            },
+            "phoneArea": "1-767-8272",
+            "workingHours": 
+            {
+                "culture": "HU",
+                "days": 
+                [                    
+                    {
+                        "day": "Hétfő",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Kedd",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szerda",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Csütörtök",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Péntek",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szombat",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Vasárnap",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    }
+                ]
+            },
+            "description": "N/A...",
+            "email": "uzleti.ugyfelszolgalat@posta.hu",
+            "ServicePointType": "CS"
+        },        
+        {
+            "isPostPoint": "1",
+            "zipCode": "6020",
+            "ID": "105896",
+            "name": "35 sz. automata - Talfája tanya Tesco",
+            "city": "Kecskemét",
+            "street": 
+            {
+                "name": "Talfája",
+                "type": "tanya",
+                "houseNumber": "1"
+            },
+            "gpsData": 
+            {
+                "EOVx": "175379",
+                "EOVy": "699042",
+                "WGSLat": "46,920832",
+                "WGSLon": "19,691364"
+            },
+            "phoneArea": "1-767-8272",
+            "workingHours": 
+            {
+                "culture": "HU",
+                "days": 
+                [                    
+                    {
+                        "day": "Hétfő",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Kedd",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szerda",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Csütörtök",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Péntek",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Szombat",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    },                    
+                    {
+                        "day": "Vasárnap",
+                        "From1": "00:00",
+                        "To1": "23:59"
+                    }
+                ]
+            },
+            "description": "N/A...",
+            "email": "uzleti.ugyfelszolgalat@posta.hu",
+            "ServicePointType": "CS"
+        }
+    ]
+}

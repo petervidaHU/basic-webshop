@@ -1,0 +1,421 @@
+openapi: 3.0.0
+info:
+  title: Webshop - Vida Péter mestermunka
+  description: webshop, ahol az emberek online tudnak vásárolni.
+  version: 0.0.8
+  servers:
+    - url: /
+    - port: 3001
+paths:
+  /api/products:
+    post:
+      tags:
+        - a webáruház termékei
+      description: új termék készítése
+      requestBody:
+        description: A termék adatai
+      responses:
+        "201":
+          description: "A termék elmentése sikerült"
+          content:
+            application/json:
+              schema:
+                 $ref: '#/components/schemas/product'
+        "400":
+          description: Validációs hiba, hibás adatok
+        "403":
+          description: Jogosultsági hiba - nem admin jogú token
+        "500":
+          description: Adatbázis hiba vagy belső hiba
+    get:
+      tags:
+        - a webáruház termékei
+      description: termékek adatainak lekérése
+      parameters: 
+        - in: path
+          name: id
+          schema:
+            type: string
+      responses:
+        "201":
+          description: "A termékek listája"
+          content:
+            application/json:
+              schema:
+                type: object
+        "400":
+          description: Validációs hiba, hibás adatok
+        "403":
+          description: Jogosultsági hiba - nem admin jogú token
+        "500":
+          description: Adatbázis hiba vagy belső hiba
+    put:
+      tags:
+        - a webáruház termékei
+      description: termékek adatainak módosítása
+      requestBody:
+        description: A termék adatai
+      responses:
+        "201":
+          description: "A módosított termék adatai objektumban"
+          content:
+            application/json:
+              schema:
+                type: object
+        "400":
+          description: Validációs hiba, hibás adatok
+        "403":
+          description: Jogosultsági hiba - nem admin jogú token
+        "500":
+          description: Adatbázis hiba vagy belső hiba
+    delete:
+      tags:
+        - a webáruház termékei
+      description: termékek törlése
+      parameters: 
+        - in: path
+          name: id
+          schema:
+            type: string
+      responses:
+        "201":
+          description: "szöveges válaszüzenet sikeres törlésről"
+          content:
+            application/json:
+              schema:
+                type: string
+        "400":
+          description: Validációs hiba, hibás adatok
+        "403":
+          description: Jogosultsági hiba - nem admin jogú token
+        "500":
+          description: Adatbázis hiba vagy belső hiba
+  /api/categories:
+    post:
+      tags:
+        - a webáruház kategóriái
+      description: új kategória készítése
+      requestBody:
+        description: A kategória adatai
+      responses:
+        "201":
+          description: "A kategória elmentése sikerült"
+          content:
+            application/json:
+              schema:
+                 $ref: '#/components/schemas/categories'
+        "400":
+          description: Validációs hiba, hibás adatok
+        "403":
+          description: Jogosultsági hiba - nem admin jogú token
+        "500":
+          description: Adatbázis hiba vagy belső hiba
+    get:
+      tags:
+        - a webáruház kategóriái
+      description: kategóriák lekérése
+      parameters: 
+        - in: path
+          name: id
+          schema:
+            type: string
+      responses:
+        "201":
+          description: "A kategóriák listája"
+          content:
+            application/json:
+              schema:
+                type: object
+        "400":
+          description: Validációs hiba, hibás adatok
+        "403":
+          description: Jogosultsági hiba - nem admin jogú token
+        "500":
+          description: Adatbázis hiba vagy belső hiba
+    put:
+      tags:
+        - a webáruház kategóriái
+      description: kategória módosítása
+      requestBody:
+        description: A kategória adatai
+      responses:
+        "201":
+          description: "A módosított kategória adatai objektumban"
+          content:
+            application/json:
+              schema:
+                type: object
+        "400":
+          description: Validációs hiba, hibás adatok
+        "403":
+          description: Jogosultsági hiba - nem admin jogú token
+        "500":
+          description: Adatbázis hiba vagy belső hiba
+    delete:
+      tags:
+        - a webáruház kategóriái
+      description: kategória törlése
+      parameters: 
+        - in: path
+          name: id
+          schema:
+            type: string
+      responses:
+        "201":
+          description: "szöveges válaszüzenet sikeres törlésről"
+          content:
+            application/json:
+              schema:
+                type: string
+        "400":
+          description: Validációs hiba, hibás adatok
+        "403":
+          description: Jogosultsági hiba - nem admin jogú token
+        "500":
+          description: Adatbázis hiba vagy belső hiba
+  /api/users:
+    post:
+      tags:
+        - a webáruház felhasználói és adminjai
+      description: új felhasználó / admin regisztrálása
+      requestBody:
+        description: A felhasználó / admin adatai
+      responses:
+        "201":
+          description: "A A felhasználó / admin elmentése sikerült"
+          content:
+            application/json:
+              schema:
+                 $ref: '#/components/schemas/users'
+        "400":
+          description: Validációs hiba, hibás adatok
+        "403":
+          description: Jogosultsági hiba - nem admin jogú token
+        "500":
+          description: Adatbázis hiba vagy belső hiba
+    get:
+      tags:
+        - a webáruház felhasználói és adminjai
+      description: A felhasználók / adminok lekérése
+      parameters: 
+        - in: path
+          name: id
+          schema:
+            type: string
+      responses:
+        "201":
+          description: "A felhasználók listája"
+          content:
+            application/json:
+              schema:
+                type: object
+        "400":
+          description: Validációs hiba, hibás adatok
+        "403":
+          description: Jogosultsági hiba - nem admin jogú token
+        "500":
+          description: Adatbázis hiba vagy belső hiba
+
+    put:
+      tags:
+        - a webáruház felhasználói és adminjai
+      description: A felhasználó / admin módosítása
+      requestBody:
+        description: A A felhasználó / admin adatai
+      responses:
+        "201":
+          description: "A módosított A felhasználó / admin adatai objektumban"
+          content:
+            application/json:
+              schema:
+                type: object
+        "400":
+          description: Validációs hiba, hibás adatok
+        "403":
+          description: Jogosultsági hiba - nem admin jogú token
+        "500":
+          description: Adatbázis hiba vagy belső hiba
+    delete:
+      tags:
+        - a webáruház felhasználói és adminjai
+      description: A felhasználó / admin törlése
+      parameters: 
+        - in: path
+          name: id
+          schema:
+            type: string
+      responses:
+        "201":
+          description: "szöveges válaszüzenet sikeres törlésről"
+          content:
+            application/json:
+              schema:
+                type: string
+        "400":
+          description: Validációs hiba, hibás adatok
+        "403":
+          description: Jogosultsági hiba - nem admin jogú token
+        "500":
+          description: Adatbázis hiba vagy belső hiba
+  /api/orders:
+    post:
+      tags:
+        - a webáruház megrendelései
+      description: Megrendelés készítése
+      requestBody:
+        description: Megrendelés adatai
+      responses:
+        "201":
+          description: "Megrendelés elmentése sikerült"
+          content:
+            application/json:
+              schema:
+                type: object
+        "400":
+          description: Validációs hiba, hibás adatok
+        "403":
+          description: Jogosultsági hiba - nem admin jogú token
+        "500":
+          description: Adatbázis hiba vagy belső hiba
+    get:
+      tags:
+        - a webáruház megrendelései
+      description: Megrendelés lekérése
+      parameters: 
+        - in: path
+          name: id
+          schema:
+            type: string
+      responses:
+        "201":
+          description: "A megrendelések listája"
+          content:
+            application/json:
+              schema:
+                type: object
+        "400":
+          description: Validációs hiba, hibás adatok
+        "403":
+          description: Jogosultsági hiba - nem admin jogú token
+        "500":
+          description: Adatbázis hiba vagy belső hiba
+
+    put:
+      tags:
+        - a webáruház megrendelései
+      description: Megrendelés módosítása
+      requestBody:
+        description: Megrendelés adatai
+      responses:
+        "201":
+          description: "A módosított megrendelés adatai objektumban"
+          content:
+            application/json:
+              schema:
+                type: object
+        "400":
+          description: Validációs hiba, hibás adatok
+        "403":
+          description: Jogosultsági hiba - nem admin jogú token
+        "500":
+          description: Adatbázis hiba vagy belső hiba
+    delete:
+      tags:
+        - a webáruház megrendelései
+      description: Megrendelés törlése
+      parameters: 
+        - in: path
+          name: id
+          schema:
+            type: string
+      responses:
+        "201":
+          description: "szöveges válaszüzenet sikeres törlésről"
+          content:
+            application/json:
+              schema:
+                type: string
+        "400":
+          description: Validációs hiba, hibás adatok
+        "403":
+          description: Jogosultsági hiba - nem admin jogú token
+        "500":
+          description: Adatbázis hiba vagy belső hiba
+components:
+  schemas:
+    product:
+      type: object
+      required:
+        - name
+        - slug
+        - description
+        - short_description
+        - regular_price
+        - sale_price
+        - stock_status
+        - categories
+      properties:
+        name:
+          type: string
+          example: termék rohadt jó neve
+        slug:
+          type: string
+          example: hajcsavaro_harom_hengeres
+        description:
+          type: string
+        short_description:
+          type: string
+        regular_price:
+          type: number
+        sale_price:
+          type: number
+        stock_status:
+          type: string
+        categories:
+          type: array
+        images:
+          type: array
+    categories:
+      type: object
+      required:
+        - name
+        - slug
+        - description
+      properties:
+        name:
+          type: string
+          example: kategória név
+        slug:
+          type: string
+          example: kategoria_nev
+        description:
+          type: string
+          example: bla bla bla
+        image:
+          type: string
+          example: kép elérési útvonala
+    users:
+      type: object
+      required:
+        - username
+        - email
+        - password
+        - billing
+        - shipping
+        - isAdmin
+      properties:
+        username:
+          type: string
+          example: fdfdf sdssf
+        email:
+          type: string
+          format: email
+        password:
+          type: string
+        billing:
+            type: array
+        shipping:
+            type: array
+        isAdmin:
+            type: boolean    
+

@@ -1,0 +1,17 @@
+{
+  "name": "documentation",
+  "version": "1.0.0",
+  "description": "ducumentation of application",
+  "main": "server.js",
+  "author": "Vida Péter",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "swagger-ui-express": "^4.1.6",
+    "yamljs": "^0.3.0"
+  },
+  "type": "module"
+}
